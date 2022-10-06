@@ -33,3 +33,4 @@ _Ez a szöveg dőlt_, __ez pedig félkövér__
 |A    |B     |C    |
 |----:|:----:|----:|
 |Nagy |Lajos |fotós|
+
